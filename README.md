@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: USTH ICT1
-* Student ID: Not-Vietnamese
+* Student Name: CHU VAN NAM
+* Student ID: BA11-076
 * Student Group ID: Not-for-now
