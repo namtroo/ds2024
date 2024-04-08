@@ -11,4 +11,4 @@ Student Info
 
 * Student Name: CHU VAN NAM
 * Student ID: BA11-076
-* Student Group ID: Not-for-now
+* Student Group ID: 04
